@@ -1,2 +1,2 @@
 # Selenium_Project-2
-This is my second project in python selenium .Orange hrm site
+I have added & updated the details of employee in the HR Management Portal and validated the login credential module using Selenium framework.
